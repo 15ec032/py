@@ -6,4 +6,4 @@ try:
 		n=n-1
 	print fact
 except:
-	print "Error"
+	print"Error"
